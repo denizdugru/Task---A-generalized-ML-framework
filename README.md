@@ -6,7 +6,7 @@ Date: 17.05.2022
 
 Requirements: Python 3.8, Tensorflow 2.10, torch 1.11.0
 
-##Description
+## Description
   In this project, main approach was to create a ML framework that is compatible with different models and different frameworks (such as Pytorch, Keras). Models that I worked on and tested in this code are Pretrained melonomia model: https://www.kaggle.com/datasets/tirth27/melanoma-classification-kerasonnx-model-weight this was a Keras model and the other one is Alexnet: https://pytorch.org/hub/pytorch_vision_alexnet/. 
   
 ## Code structure  
