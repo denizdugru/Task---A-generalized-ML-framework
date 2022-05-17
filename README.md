@@ -15,9 +15,18 @@ Requirements: Python 3.8, Tensorflow 2.10, torch 1.11.0
 Here are some outputs of the predict() from models:
 
 This output is with Keras model
+
+
 ![image](https://user-images.githubusercontent.com/63200146/168906716-59b997ec-bed8-4986-8cba-dd4d3ea63f8d.png)
 
+
+
+
+
+
 This output is with Pytorch model
+
+
 ![image](https://user-images.githubusercontent.com/63200146/168907242-1f8068b3-5d16-41fb-9f95-ed3a743edf50.png)
 
 
