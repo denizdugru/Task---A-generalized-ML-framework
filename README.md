@@ -19,3 +19,11 @@ This output is with Keras model
 
 This output is with Pytorch model
 ![image](https://user-images.githubusercontent.com/63200146/168907242-1f8068b3-5d16-41fb-9f95-ed3a743edf50.png)
+
+
+References:
+https://www.youtube.com/watch?v=15zlr2vJqKc&ab_channel=DennisMadsen
+https://www.tensorflow.org/tutorials/keras/save_and_load
+https://keras.io/api/metrics/accuracy_metrics/
+https://keras.io/api/losses/
+https://neptune.ai/blog/keras-metrics
